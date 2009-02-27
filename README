@@ -1,0 +1,14 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2560
+
+When you want the number to be converted to its relevant text/string, it does that for you. Say 781 need to be converted to "seven hundred eighty one". 
+
+Just type _781 which will be replaced by seven hundred eighty one.
+
+This script can be used for making this kind of conversion for the numbers 1 to 10000.
+
+WARNING:
+As this file contains 10000 abbreviation, it will take a couple of seconds to process when you open a file in vim editor.
+
+SUGGESTION:
+so disable this plugin whenever not needed.
+( comment the pasted line in .vimrc file )
